@@ -18,9 +18,7 @@ Click on “Access Keys” for either SdapDevAnalyst1, 2, or 3.
 Under Option2 move the cursor to the highlighted area which changes to “Copy to Clipboard” with a black background. 
 
 
-![option2](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/option2.png)
-
+1. ![option2](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/option2.png)
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
-
-![copytoclipboard](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/copy-to-clipboard.png)
+2. ![copytoclipboard](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/copy-to-clipboard.png)
 
