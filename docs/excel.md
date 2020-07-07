@@ -20,4 +20,4 @@ Click on “Copy to Clipboard” and paste values into the “credentials” fil
 
 ![option2](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/option2.png)
 
-![option1](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/copy-to-clipboard.png)
+![copyto clipboard](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/copy-to-clipboard.png)
