@@ -18,9 +18,9 @@ Click on “Access Keys” for either SdapDevAnalyst1, 2, or 3.
 Under Option2 move the cursor to the highlighted area which changes to “Copy to Clipboard” with a black background. 
 
 
-![option2](images/option2.png)
+![OPTION2](images/option2.png)
            
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
 
-![SAML Option](images/Cognito-SAML.png)
+![CLIPBOARD](images/copy-to-clipboard.png)
 
