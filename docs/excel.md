@@ -17,11 +17,9 @@ Click on “Access Keys” for either SdapDevAnalyst1, 2, or 3.
 Under Option2 move the cursor to the highlighted area which changes to “Copy to Clipboard” with a black background. 
 ![OPTION2](images/option2.png) 
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
-![CLIPBOARD](images/copy-to-clipboard.png)
-Credentials file location
-    ![PATH](images/cred-file-path.png)
-Contents of the credentials file
-    ![FILE](images/credentials-file.png)
+![CLIPBOARD](images/copy-to-clipboard.png) Credentials file location
+![PATH](images/cred-file-path.png) Contents of the credentials file
+![FILE](images/credentials-file.png)
 ## Download ODBC driver
 •	Download the Amazon Athena ODBC driver by clicking the link below:
 https://docs.aws.amazon.com/athena/latest/ug/connect-with-odbc.html
