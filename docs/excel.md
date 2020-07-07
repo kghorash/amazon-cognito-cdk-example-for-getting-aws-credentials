@@ -22,3 +22,5 @@ Under Option2 move the cursor to the highlighted area which changes to “Copy t
            
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
 
+![SAML Option](images/Cognito-SAML.png)
+
