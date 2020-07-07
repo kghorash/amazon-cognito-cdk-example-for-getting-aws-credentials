@@ -16,8 +16,11 @@ Login into: https://dp1luaobhtxif.cloudfront.net/
 
 Click on “Access Keys” for either SdapDevAnalyst1, 2, or 3.
 Under Option2 move the cursor to the highlighted area which changes to “Copy to Clipboard” with a black background. 
-Click on “Copy to Clipboard” and paste values into the “credentials” file.
+
 
 ![option2](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/option2.png)
+
+Click on “Copy to Clipboard” and paste values into the “credentials” file.
+
 ![copytoclipboard](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/blob/dev/docs/images/copy-to-clipboard.png)
 
