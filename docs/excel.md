@@ -18,7 +18,9 @@ Under Option2 move the cursor to the highlighted area which changes to “Copy t
     ![OPTION2](images/option2.png) 
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
     ![CLIPBOARD](images/copy-to-clipboard.png)
+Credentials file location
     ![PATH](images/cred-file-path.png)
+Contents of the credentials file
     ![FILE](images/credentials-file.png)
 ## Download ODBC driver
 •	Download the Amazon Athena ODBC driver by clicking the link below:
