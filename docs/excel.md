@@ -20,6 +20,5 @@ Under Option2 move the cursor to the highlighted area which changes to “Copy t
 
 ![option2](https://github.com/kghorash/amazon-cognito-cdk-example-for-getting-aws-credentials/tree/dev/docs/images/option2.png)
            
-
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
 
