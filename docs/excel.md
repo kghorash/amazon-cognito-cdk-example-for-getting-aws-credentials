@@ -37,32 +37,29 @@ Your version and bit-level of Excel will appear under About Microsoft Excel - Di
 Note: Admin access is required to install and configure ODBC driver on a laptop.
 
 Click on the downloaded ODBC driver file to install it.
-
 ![SIMBA](images/install-simba.png)  
 Click Next to continue.
 
 ## Configure ODBC Driver
-Installation of the ODBC driver will create a new system data source in ‘ODBC Data Source Administrator under ‘System DSN’ tab
-
+Installation of the ODBC driver will create a new system data source in *ODBC Data Source Administrator* under *system DSN* tab
 ![ODBC1](images/configure-ODBC1.png)
 ![ODBC2](images/configure-ODBC2.png)
 From the Control panelAdministrative Tools
 
-Open “Setup ODBC data sources (32-bit)” or “(64-bit)”
+Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 
-Create a new User data source by selecting “Add” under “User DSN” tab.
-
+Create a new User data source by selecting “Add” under “*User DSN*” tab.
 ![ODBC3](images/configure-ODBC3.png)
 
-Select “Simba Athena ODBC Driver”, then select ‘Ok’
+Select “Simba Athena ODBC Driver”, then select ‘*OK*’
 
 ![ODBC4](images/configure-ODBC4.png)
 
-Select “Simba Athena ODBC Driver”, then select ‘Finish’
+Select “*Simba Athena ODBC Driver*”, then select ‘*Finish*’
 
 ![ODBC5](images/configure-ODBC5.png)
 
-Complete “Simba Athena ODBC Driver DSN Setup” page.
+Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 
 **Data Source Name**: Provide a name for the data source
 
@@ -74,28 +71,24 @@ Complete “Simba Athena ODBC Driver DSN Setup” page.
 
 **S3 Output Location**: s3://aws-athena-query-results-us-west-2-465872772557
 
-
-
-Click on “Authentication Options…” tab on the bottom
+Click on “*Authentication Options…*” tab on the bottom
 
 ![ODBC6](images/configure-ODBC6.png)
 
-Under “Authentication Type” drop down: Select ‘IAM Profile’ 
+Under “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
-AWS Profile: DataLake
+**AWS Profile**: DataLake
 
 Note: This name must match the label in the credentials file stored on the computer.
 
-Under Create credentials file on laptop section.
-
-Click *Ok* to close the window.
+Click *OK* to close the window.
 
 In the previous window click on “Test…” tab on the bottom to test the connection.
 
 ![ODBC7](images/configure-ODBC7.png)
 ![ODBC8](images/configure-ODBC8.png)
 
-Click *Ok* to close all windows.
+Click *OK* to close all windows.
 
 ## Connect Excel to AWS Athena
 
