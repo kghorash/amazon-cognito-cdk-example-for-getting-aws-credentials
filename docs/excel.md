@@ -44,5 +44,11 @@ Click Next to continue.
 ## Configure ODBC Driver
 Installation of the ODBC driver will create a new system data source in ‘ODBC Data Source Administrator under ‘System DSN’ tab
 
+![ODBC1](images/configure-ODBC1.png)
+![ODBC2](images/configure-ODBC2.png)
+![ODBC3](images/configure-ODBC3.png)
+![ODBC4](images/configure-ODBC4.png)
+![ODBC5](images/configure-ODBC5.png)
+
 
 
