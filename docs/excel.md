@@ -46,6 +46,9 @@ Installation of the ODBC driver will create a new system data source in ‘ODBC 
 
 ![ODBC1](images/configure-ODBC1.png)
 ![ODBC2](images/configure-ODBC2.png)
+From the Control panelAdministrative Tools 
+Open “Setup ODBC data sources (32-bit)” or “(64-bit)”
+Create a new User data source by selecting “Add” under “User DSN” tab.
 ![ODBC3](images/configure-ODBC3.png)
 ![ODBC4](images/configure-ODBC4.png)
 ![ODBC5](images/configure-ODBC5.png)
