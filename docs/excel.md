@@ -16,7 +16,7 @@ Login into: https://dp1luaobhtxif.cloudfront.net/
 Click on “Access Keys” for either SdapDevAnalyst1, 2, or 3.
 Under Option2 move the cursor to the highlighted area which changes to “Copy to Clipboard” with a black background. 
 Click on “Copy to Clipboard” and paste values into the “credentials” file.
-![OPTION2](images/credentials.png) 
+  ![OPTION2](images/credentials.png) 
 
 ## Download ODBC driver
 •	Download the Amazon Athena ODBC driver by clicking the link below:
