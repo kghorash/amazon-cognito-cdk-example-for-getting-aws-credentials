@@ -50,7 +50,8 @@ Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 Create a new User data source by selecting “Add” under “*User DSN*” tab.
 
 ![ODBC0](images/configure-ODBC0.png)
-Select “Simba Athena ODBC Driver”, then select ‘*OK*’
+![ODBC1](images/configure-ODBC1.png)
+Select “Simba Athena ODBC Driver”, then select ‘*Finish*’
 ![ODBC2](images/configure-ODBC2.png)
 ![ODBC3](images/configure-ODBC3.png)
 Select “*Simba Athena ODBC Driver*”, then select ‘*Finish*’
