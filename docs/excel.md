@@ -67,9 +67,10 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 
 **AWS Region**: us-west-2
 
-**Schema**: sdap_dev
+**Schema**: Enter schema/database name (sdap_dev)
 
-**S3 Output Location**: s3://aws-athena-query-results-us-west-2-465872772557
+**S3 Output Location**: [Enter an S3 location with read/write accessibility ]
+(s3://aws-athena-query-results-us-west-2-465872772557)
 
 Click on “*Authentication Options…*” tab on the bottom
 
