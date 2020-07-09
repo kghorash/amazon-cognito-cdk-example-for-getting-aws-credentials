@@ -22,7 +22,7 @@ Click on “Copy to Clipboard” and paste values into the “credentials” fil
 
   ![OPTION2](images/credentials.png) 
 
-## Download ODBC driver
+## Download ODBC Driver
 •	Download the Amazon Athena ODBC driver by clicking the link below:
 https://docs.aws.amazon.com/athena/latest/ug/connect-with-odbc.html
 Select the driver for your operating environment, Windows, Linux, OSX 32 or 64 bit ODBC driver.
@@ -33,10 +33,16 @@ Find bit level of Excel on your computer
 Select the File tab from the Excel ribbon and then select Help
 Your version and bit-level of Excel will appear under About Microsoft Excel - Diagram below.
 ![VERSION](images/excel-version.png)
-## Install ODBC driver
+## Install ODBC Driver
 Note: Admin access is required to install and configure ODBC driver on a laptop.
+
 Click on the downloaded ODBC driver file to install it.
+
 ![SIMBA](images/install-simba.png)  
+Click Next to continue.
+
+## Configure ODBC Driver
+Installation of the ODBC driver will create a new system data source in ‘ODBC Data Source Administrator under ‘System DSN’ tab
 
 
 
