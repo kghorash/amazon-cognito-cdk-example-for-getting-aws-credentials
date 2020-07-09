@@ -88,35 +88,35 @@ Note: This name must match the label in the credentials file stored on the compu
 
 Under Create credentials file on laptop section.
 
-Click Ok. to close the window.
+Click *Ok* to close the window.
 
 In the previous window click on “Test…” tab on the bottom to test the connection.
 
 ![ODBC7](images/configure-ODBC7.png)
 ![ODBC8](images/configure-ODBC8.png)
 
-Click Ok. to close all windows.
+Click *Ok* to close all windows.
 
-Connect Excel to AWS Athena
+## Connect Excel to AWS Athena
 
 Open a new Excel file.
 
-Click on ‘Data’ tab
+Click on ‘*Data*’ tab
 
-DataNew QueryFrom Other SourcesFrom ODBC
+*DataNew QueryFrom Other SourcesFrom ODBC
 
 
 ![EXCEL](images/excel-connect.png)
 ![EXCEL2](images/excel-connect2.png)
 
-Select “ODBC Athena SdapDevAnalyst” from the drop down list and then click “OK”
+Select “*ODBC Athena SdapDevAnalyst*” from the drop down list and then click “*OK*”
 
-Alternatively click “Advanced Options” to enter a customized SQL statement.
+Alternatively click “*Advanced Options*” to enter a customized SQL statement.
 
 ![EXCEL3](images/excel-connect3.png)
 ![EXCEL4](images/excel-connect4.png)
 
-Click “Load” to load data to the spreadsheet
+Click “*Load*” to load data to the spreadsheet
 
 ![EXCEL5](images/excel-connect5.png)
 
