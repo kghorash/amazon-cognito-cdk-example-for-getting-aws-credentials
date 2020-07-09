@@ -46,12 +46,81 @@ Installation of the ODBC driver will create a new system data source in ‘ODBC 
 
 ![ODBC1](images/configure-ODBC1.png)
 ![ODBC2](images/configure-ODBC2.png)
-From the Control panelAdministrative Tools 
+From the Control panelAdministrative Tools
+
 Open “Setup ODBC data sources (32-bit)” or “(64-bit)”
+
 Create a new User data source by selecting “Add” under “User DSN” tab.
+
 ![ODBC3](images/configure-ODBC3.png)
+
+Select “Simba Athena ODBC Driver”, then select ‘Ok’
+
 ![ODBC4](images/configure-ODBC4.png)
+
+Select “Simba Athena ODBC Driver”, then select ‘Finish’
+
 ![ODBC5](images/configure-ODBC5.png)
+
+Complete “Simba Athena ODBC Driver DSN Setup” page.
+
+Data Source Name: Provide a name for the data source
+
+Description: Add a description for the data source
+
+AWS Region: us-west-2
+
+Schema: Enter schema/database name (sdap_dev)
+
+S3 Output Location: Enter an S3 location with read/write accessibility 
+
+(s3://aws-athena-query-results-us-west-2-465872772557)
+
+Click on “Authentication Options…” tab on the bottom
+
+![ODBC6](images/configure-ODBC6.png)
+
+Under “Authentication Type” drop down: Select ‘IAM Profile’ 
+
+AWS Profile: DataLake
+
+Note: This name must match the label in the credentials file stored on the computer.
+
+Under Create credentials file on laptop section.
+
+Click Ok. to close the window.
+
+In the previous window click on “Test…” tab on the bottom to test the connection.
+
+![ODBC7](images/configure-ODBC7.png)
+![ODBC8](images/configure-ODBC8.png)
+
+Click Ok. to close all windows.
+
+Connect Excel to AWS Athena
+
+Open a new Excel file.
+
+Click on ‘Data’ tab
+
+DataNew QueryFrom Other SourcesFrom ODBC
+
+
+![EXCEL](images/excel-connect.png)
+![EXCEL2](images/excel-connect2.png)
+
+Select “ODBC Athena SdapDevAnalyst” from the drop down list and then click “OK”
+
+Alternatively click “Advanced Options” to enter a customized SQL statement.
+
+![EXCEL3](images/excel-connect3.png)
+![EXCEL4](images/excel-connect4.png)
+
+Click “Load” to load data to the spreadsheet
+
+![EXCEL5](images/excel-connect5.png)
+
+
 
 
 
