@@ -96,7 +96,6 @@ Click on ‘*Data*’ tab
 
 *DataNew QueryFrom Other SourcesFrom ODBC
 
-
 ![EXCEL](images/excel-connect.png)
 ![EXCEL2](images/excel-connect2.png)
 
