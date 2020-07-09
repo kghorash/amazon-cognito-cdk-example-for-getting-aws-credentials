@@ -51,9 +51,8 @@ Create a new User data source by selecting “Add” under “*User DSN*” tab.
 
 Select “Simba Athena ODBC Driver”, then select ‘*OK*’
 
-![ODBC1](images/configure-ODBC1.png)
 ![ODBC2](images/configure-ODBC2.png)
-
+![ODBC3](images/configure-ODBC3.png)
 Select “*Simba Athena ODBC Driver*”, then select ‘*Finish*’
 ![ODBC4](images/configure-ODBC4.png)
 ![ODBC5](images/configure-ODBC5.png)
