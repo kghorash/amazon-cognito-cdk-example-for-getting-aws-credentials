@@ -42,14 +42,17 @@ Click Next to continue.
 
 ## Configure ODBC Driver
 Installation of the ODBC driver will create a new system data source in *ODBC Data Source Administrator* under *system DSN* tab
-![ODBC1](images/configure-ODBC1.png)
-![ODBC2](images/configure-ODBC2.png)
+
 From the Control panelAdministrative Tools
 
 Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 
 Create a new User data source by selecting “Add” under “*User DSN*” tab.
+
 Select “Simba Athena ODBC Driver”, then select ‘*OK*’
+
+![ODBC1](images/configure-ODBC1.png)
+![ODBC2](images/configure-ODBC2.png)
 ![ODBC3](images/configure-ODBC3.png)
 ![ODBC4](images/configure-ODBC4.png)
 Select “*Simba Athena ODBC Driver*”, then select ‘*Finish*’
