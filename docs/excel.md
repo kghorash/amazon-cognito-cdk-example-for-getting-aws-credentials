@@ -100,14 +100,13 @@ Click on ‘*Data*’ tab
 *DataNew QueryFrom Other SourcesFrom ODBC
 
 ![EXCEL](images/excel-connect.png)
-![EXCEL2](images/excel-connect2.png)
 
 Select “*Sdap_Analyst_Athena_ODBC*” from the drop down list and then click “*OK*”
 
 (This is the name of the data sources created during ODBC configuration).
 
 Alternatively click “*Advanced Options*” to enter a customized SQL statement.
-
+![EXCEL2](images/excel-connect2.png)
 ![EXCEL3](images/excel-connect3.png)
 ![EXCEL4](images/excel-connect4.png)
 
