@@ -1,4 +1,4 @@
-# How to use excel with sts tokens
+# How to connect MS Excel to AWS AThena using sts tokens
 ## Introduction
 
 The purpose of this document is to outline steps required to connect Microsoft Excel to AWS Athena as a data source and utilize Excel as a BI tool to perform data analytics. 
