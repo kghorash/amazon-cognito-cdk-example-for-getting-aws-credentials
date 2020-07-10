@@ -41,7 +41,7 @@ Click on the downloaded ODBC driver file to install it.
 ![SIMBA2](images/simba-install2.png)  
 ![SIMBA4](images/simba-install4.png)  
 
-Click Next to continue.
+Click *Finish* to complete the installation.
 
 ## Configure ODBC Driver
 Installation of the ODBC driver will create a new system data source in *ODBC Data Source Administrator* under *system DSN* tab
