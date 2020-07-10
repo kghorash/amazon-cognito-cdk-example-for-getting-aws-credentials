@@ -109,12 +109,10 @@ Alternatively click “*Advanced Options*” to enter a customized SQL statement
 ![EXCEL2](images/excel-connect2.png)
 
 ![EXCEL3](images/excel-connect3.png)
-
-![EXCEL4](images/excel-connect4.png)
-
 Click “*Load*” to load data to the spreadsheet
-
+![EXCEL4](images/excel-connect4.png)
 ![EXCEL5](images/excel-connect5.png)
+
 
 
 
