@@ -102,7 +102,9 @@ Click on ‘*Data*’ tab
 ![EXCEL](images/excel-connect.png)
 ![EXCEL2](images/excel-connect2.png)
 
-Select “*ODBC Athena SdapDevAnalyst*” from the drop down list and then click “*OK*”
+Select “*Sdap_Analyst_Athena_ODBC*” from the drop down list and then click “*OK*”
+
+(This is the name of the data sources created during ODBC configuration).
 
 Alternatively click “*Advanced Options*” to enter a customized SQL statement.
 
