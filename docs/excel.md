@@ -85,8 +85,6 @@ Click *OK* to close the window.
 
 In the previous window click on “Test…” tab on the bottom to test the connection.
 
-![ODBC7](images/configure-ODBC7.png) ![ODBC8](images/configure-ODBC8.png)
-
 Click *OK* to close all windows.
 
 ## Connect Excel to AWS Athena
