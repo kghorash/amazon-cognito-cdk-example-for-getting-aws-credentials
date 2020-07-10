@@ -68,9 +68,8 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 **S3 Output Location**: [Enter an S3 location with read/write accessibility ]
 (s3://aws-athena-query-results-us-west-2-465872772557)
 
-![ODBC5](images/configure-ODBC5.png)
-
 Click on “*Authentication Options…*” tab on the bottom
+![ODBC5](images/configure-ODBC5.png)
 
 Under “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
