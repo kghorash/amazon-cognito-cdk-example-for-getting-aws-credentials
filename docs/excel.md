@@ -73,7 +73,7 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 
 Click on “*Authentication Options…*” tab on the bottom
 
-![ODBC6](images/configure-ODBC6.png)
+![ODBC52](images/configure-ODBC52.png)
 
 Under “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
