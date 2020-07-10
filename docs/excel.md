@@ -100,7 +100,7 @@ Open a new Excel file.
 Click on ‘*Data*’ tab
 
 *DataNew QueryFrom Other SourcesFrom ODBC
-![EXCEL](images/excel-connect.png)
+  ![EXCEL](images/excel-connect.png)
 Select “*Sdap_Analyst_Athena_ODBC*” from the drop down list and then click “*OK*”
 
 (This is the name of the data sources created during ODBC configuration).
