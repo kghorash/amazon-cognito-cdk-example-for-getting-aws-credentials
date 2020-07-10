@@ -57,8 +57,6 @@ Create a new User data source by selecting “Add” under “*User DSN*” tab.
 Select “Simba Athena ODBC Driver”, then select ‘*Finish*’
 Select “*Simba Athena ODBC Driver*”, then select ‘*Finish*’
 ![ODBC5](images/configure-ODBC5.png)
-![ODBC6](images/configure-ODBC6.png)
-![ODBC51](images/configure-ODBC51.png)
 Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 
 **Data Source Name**: Provide a name for the data source
@@ -72,6 +70,9 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 **S3 Output Location**: [Enter an S3 location with read/write accessibility ]
 (s3://aws-athena-query-results-us-west-2-465872772557)
 
+
+![ODBC6](images/configure-ODBC6.png)
+![ODBC51](images/configure-ODBC51.png)
 Click on “*Authentication Options…*” tab on the bottom
 
 ![ODBC52](images/configure-ODBC52.png)
