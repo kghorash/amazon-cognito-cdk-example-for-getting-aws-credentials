@@ -70,21 +70,23 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 
 ![ODBC5](images/configure-ODBC5.png)
 
-![ODBC6](images/configure-ODBC6.png)
-![ODBC51](images/configure-ODBC51.png)
 Click on “*Authentication Options…*” tab on the bottom
-
-![ODBC52](images/configure-ODBC52.png)
 
 Under “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
 **AWS Profile**: DataLake
 
-Note: This name must match the label in the credentials file stored on the computer.
+***Note: This 'AWS Profile' name must match the label in the credentials file stored on the computer.***
 
 Click *OK* to close the window.
 
+![ODBC6](images/configure-ODBC6.png)
 In the previous window click on “Test…” tab on the bottom to test the connection.
+![ODBC51](images/configure-ODBC51.png)
+![ODBC52](images/configure-ODBC52.png)
+
+
+
 
 Click *OK* to close all windows.
 
