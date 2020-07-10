@@ -53,15 +53,21 @@ Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 Create a new User data source by selecting “Add” under “*User DSN*” tab and "*OK*" to continue.
 
 ![ODBC01](images/configure-ODBC01.png)
-From "*Create New Data Source"* page select "*Simba Athena ODBC Driver*" and Click "*Finish*"
+In "*Create New Data Source"* page select "*Simba Athena ODBC Driver*" and Click "*Finish*"
 ![ODBC1](images/configure-ODBC1.png)
 Complete “*Simba Athena ODBC Driver DSN Setup*” page.
+
 **Data Source Name**: Provide a name for the data source
+
 **Description**: Add a description for the data source
+
 **AWS Region**: us-west-2
+
 **Schema**: Enter schema/database name (sdap_dev)
+
 **S3 Output Location**: [Enter an S3 location with read/write accessibility ]
 (s3://aws-athena-query-results-us-west-2-465872772557)
+
 ![ODBC5](images/configure-ODBC5.png)
 
 ![ODBC6](images/configure-ODBC6.png)
