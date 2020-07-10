@@ -75,7 +75,6 @@ Complete the “*Simba Athena ODBC Driver DSN Setup*” window.
 
 Click on “*Authentication Options…*” tab on the bottom
 ![ODBC5](images/configure-ODBC5.png)
-
 In the "*Authentication Options*" window from “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
 **AWS Profile**: DataLake
@@ -83,11 +82,9 @@ In the "*Authentication Options*" window from “*Authentication Type*” drop d
 ***Note: This 'AWS Profile' name must match the label in the credentials file stored on the computer.***
 
 Click *OK* to close the window.
-
 ![ODBC6](images/configure-ODBC6.png)
 In the “*Simba Athena ODBC Driver DSN Setup*” window, click on “Test…” tab on the bottom to test the connection.
 ![ODBC51](images/configure-ODBC51.png)
-
 Click *OK* to close all windows.
 
 ## Connect Excel to AWS Athena
@@ -97,23 +94,14 @@ Open a new Excel file.
 Click on ‘*Data*’ tab
 
 *DataNew QueryFrom Other SourcesFrom ODBC
-
 ![EXCEL](images/excel-connect.png)
-
 Select “*Sdap_Analyst_Athena_ODBC*” from the drop down list and then click “*OK*”
 
 (This is the name of the data sources created during ODBC configuration).
 
 Alternatively click “*Advanced Options*” to enter a customized SQL statement.
 ![EXCEL2](images/excel-connect2.png)
-
 ![EXCEL3](images/excel-connect3.png)
 Click “*Load*” to load data to the spreadsheet
 ![EXCEL4](images/excel-connect4.png)
 ![EXCEL5](images/excel-connect5.png)
-
-
-
-
-
-
