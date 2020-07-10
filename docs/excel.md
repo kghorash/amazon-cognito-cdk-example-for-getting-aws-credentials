@@ -53,9 +53,9 @@ Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 Create a new User data source by selecting “Add” under “*User DSN*” tab and "*OK*" to continue.
 
 ![ODBC01](images/configure-ODBC01.png)
-In "*Create New Data Source"* page select "*Simba Athena ODBC Driver*" and Click "*Finish*"
+In "*Create New Data Source"* window select "*Simba Athena ODBC Driver*" and Click "*Finish*"
 ![ODBC1](images/configure-ODBC1.png)
-Complete “*Simba Athena ODBC Driver DSN Setup*” page.
+Complete the “*Simba Athena ODBC Driver DSN Setup*” window.
 
 **Data Source Name**: Provide a name for the data source
 
@@ -71,7 +71,7 @@ Complete “*Simba Athena ODBC Driver DSN Setup*” page.
 Click on “*Authentication Options…*” tab on the bottom
 ![ODBC5](images/configure-ODBC5.png)
 
-Under “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
+In the "*Authentication Options*" window from “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
 **AWS Profile**: DataLake
 
