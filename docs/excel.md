@@ -1,7 +1,7 @@
 # How to connect MS Excel to AWS Athena via ODBC using sts tokens
 ## Introduction
 
-The purpose of this document is to outline steps required to connect Microsoft Excel to AWS Athena as a data source and utilize Excel with ODBC using sts token thus using Excel as a BI tool to perform data analytics. 
+The purpose of this document is to outline steps required to connect Microsoft Excel to AWS Athena using ODBC and sts token. 
 
 ## Create credentials file on laptop
 Create the AWS credential files on the local computer.
