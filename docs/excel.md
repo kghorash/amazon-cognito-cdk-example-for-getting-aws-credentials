@@ -37,6 +37,7 @@ Your version and bit-level of Excel will appear under About Microsoft Excel - Di
 Note: Admin access is required to install and configure ODBC driver on a laptop.
 
 Click on the downloaded ODBC driver file to install it.
+
 Click *Run* to start the installation.
 
 ![SIMBA0](images/simba-install.png)
@@ -46,8 +47,6 @@ Click *Next* to continue.
 ![SIMBA31](images/simba-install31.png)
 Click *Finish* to complete the installation.
 ![SIMBA4](images/simba-install4.png)  
-
-Click *Finish* to complete the installation.
 
 ## Configure ODBC Driver
 Installation of the ODBC driver will create a new system data source in *ODBC Data Source Administrator* under *system DSN* tab
