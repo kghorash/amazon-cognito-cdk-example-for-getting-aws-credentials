@@ -39,7 +39,7 @@ Note: Admin access is required to install and configure ODBC driver on a laptop.
 Click on the downloaded ODBC driver file to install it.
 ![SIMBA0](images/simba-install.png)
 ![SIMBA2](images/simba-install2.png)
-![SIMBA3](images/simba-install3.png)
+![SIMBA31](images/simba-install31.png)
 ![SIMBA4](images/simba-install4.png)  
 
 Click *Finish* to complete the installation.
