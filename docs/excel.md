@@ -62,13 +62,9 @@ In "*Create New Data Source"* window select "*Simba Athena ODBC Driver*" and Cli
 ![ODBC1](images/configure-ODBC1.png)
 Complete the “*Simba Athena ODBC Driver DSN Setup*” window.
 **Data Source Name**: Provide a name for the data source
-
 **Description**: Add a description for the data source
-
 **AWS Region**: us-west-2
-
 **Schema**: Enter schema/database name (sdap_dev)
-
 **S3 Output Location**: [Enter an S3 location with read/write accessibility ]
 (s3://aws-athena-query-results-us-west-2-465872772557)
 
