@@ -63,19 +63,24 @@ Open “*Setup ODBC data sources (32-bit)*” or “(64-bit)”
 
 Create a new User data source by selecting “Add” under “*User DSN*” tab and "*OK*" to continue.
 
-![ODBC01](images/configure-ODBC01.png)
+  ![ODBC01](images/configure-ODBC01.png)
 In "*Create New Data Source"* window select "*Simba Athena ODBC Driver*" and Click "*Finish*"
-![ODBC1](images/configure-ODBC1.png)
+  ![ODBC1](images/configure-ODBC1.png)
 Complete the “*Simba Athena ODBC Driver DSN Setup*” window.
+
 **Data Source Name**: Provide a name for the data source
+
 **Description**: Add a description for the data source
+
 **AWS Region**: us-west-2
+
 **Schema**: Enter schema/database name (sdap_dev)
+
 **S3 Output Location**: [Enter an S3 location with read/write accessibility ]
 (s3://aws-athena-query-results-us-west-2-465872772557)
 
 Click on “*Authentication Options…*” tab on the bottom
-![ODBC5](images/configure-ODBC5.png)
+  ![ODBC5](images/configure-ODBC5.png)
 In the "*Authentication Options*" window from “*Authentication Type*” drop down: Select ‘*IAM Profile*’ 
 
 **AWS Profile**: DataLake
@@ -83,9 +88,9 @@ In the "*Authentication Options*" window from “*Authentication Type*” drop d
 ***Note: This 'AWS Profile' name must match the label in the credentials file stored on the computer.***
 
 Click *OK* to close the window.
-![ODBC6](images/configure-ODBC6.png)
+  ![ODBC6](images/configure-ODBC6.png)
 In the “*Simba Athena ODBC Driver DSN Setup*” window, click on “Test…” tab on the bottom to test the connection.
-![ODBC51](images/configure-ODBC51.png)
+  ![ODBC51](images/configure-ODBC51.png)
 Click *OK* to close all windows.
 
 ## Connect Excel to AWS Athena
@@ -101,8 +106,8 @@ Select “*Sdap_Analyst_Athena_ODBC*” from the drop down list and then click �
 (This is the name of the data sources created during ODBC configuration).
 
 Alternatively click “*Advanced Options*” to enter a customized SQL statement.
-![EXCEL2](images/excel-connect2.png)
-![EXCEL3](images/excel-connect3.png)
+  ![EXCEL2](images/excel-connect2.png)
+  ![EXCEL3](images/excel-connect3.png)
 Click “*Load*” to load data to the spreadsheet
-![EXCEL4](images/excel-connect4.png)
-![EXCEL5](images/excel-connect5.png)
+  ![EXCEL4](images/excel-connect4.png)
+  ![EXCEL5](images/excel-connect5.png)
