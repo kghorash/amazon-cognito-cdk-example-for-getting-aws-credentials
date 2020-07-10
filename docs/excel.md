@@ -80,12 +80,9 @@ In the "*Authentication Options*" window from “*Authentication Type*” drop d
 Click *OK* to close the window.
 
 ![ODBC6](images/configure-ODBC6.png)
-In the previous window click on “Test…” tab on the bottom to test the connection.
+In the “*Simba Athena ODBC Driver DSN Setup*” window, click on “Test…” tab on the bottom to test the connection.
 ![ODBC51](images/configure-ODBC51.png)
 ![ODBC52](images/configure-ODBC52.png)
-
-
-
 
 Click *OK* to close all windows.
 
