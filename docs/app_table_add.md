@@ -7,5 +7,8 @@ For every new table, three new scripts are created.
 In some cases a processing RowNum table is also created used to report on the file data quality
 
 •	DDL script for the incoming table
+
 •	DDL for the reporting parquet table
+
 •	SQL script to copy data from the incoming into the parquet formatted table
+
